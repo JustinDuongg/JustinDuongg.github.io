@@ -851,7 +851,7 @@
             </div>
             
             <div class="about-image">
-                [YOUR PHOTO]
+                <img src="website pic 1.jpg" alt="Me" width="400" height="300">
             </div>
         </div>
     </section>
@@ -985,34 +985,10 @@
                 A showcase of innovative robotics projects spanning autonomous navigation, computer vision, and intelligent control systems.
             </p>
         </div>
-        
-        <div class="projects-grid">
-            <div class="project-card">
-                <div class="project-image">
-                    [3DOF ARM IMAGE]
-                </div>
-                <div class="project-content">
-                    <h3 class="project-title">3DOF Robotic Arm</h3>
-                    <div class="project-date">July 2024</div>
-                    <div class="project-description">
-                        <ul>
-                            <li>Implemented inverse kinematics and motion planning algorithms in ROS to solve precise end-effector positioning</li>
-                            <li>Integrated a computer vision pipeline using OpenCV for object detection and coordinate estimation</li>
-                            <li>Enabled closed-loop visual feedback for autonomous task execution</li>
-                        </ul>
-                    </div>
-                    <div class="project-tags">
-                        <span class="project-tag">ROS</span>
-                        <span class="project-tag">OpenCV</span>
-                        <span class="project-tag">Inverse Kinematics</span>
-                        <span class="project-tag">Computer Vision</span>
-                    </div>
-                </div>
-            </div>
             
             <div class="project-card">
                 <div class="project-image">
-                    [FRC ROBOT IMAGE]
+                    <img src="website pic 2.jpeg" alt="A picture of the FRC robot" width="400" height="300">
                 </div>
                 <div class="project-content">
                     <h3 class="project-title">World Robot Conference FRC</h3>
@@ -1036,7 +1012,7 @@
             
             <div class="project-card">
                 <div class="project-image">
-                    [HUMANOID ROBOT IMAGE]
+                    <img src="website pic 3.jpeg" alt="A picture of the humanoid robot" width="400" height="300">
                 </div>
                 <div class="project-content">
                     <h3 class="project-title">World's Smallest Humanoid Robot</h3>
