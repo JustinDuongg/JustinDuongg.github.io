@@ -1012,7 +1012,7 @@
             
             <div class="project-card">
                 <div class="project-image">
-                    <img src="website pic 3.jpeg" alt="A picture of the humanoid robot" width="400" height="300">
+                    <img src="website pic 3.webp" alt="A picture of the humanoid robot" width="400" height="300">
                 </div>
                 <div class="project-content">
                     <h3 class="project-title">World's Smallest Humanoid Robot</h3>
